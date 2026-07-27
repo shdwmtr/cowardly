@@ -1,4 +1,4 @@
-# brave-dark
+# Cowardly
 
 A break from brave's incredibly disgusting pale design
 
